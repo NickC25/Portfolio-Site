@@ -1,4 +1,4 @@
 require "sinatra"
-get '/PortfolioSite.html' do
-  "Hello World"
+get '/' do
+  "PortfolioSite.html"
 end
