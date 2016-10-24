@@ -1,4 +1,5 @@
 require "sinatra"
-get '/' do
-  "PortfolioSite.html"
+
+get '/myspecialroute' do
+  File.read(File.join('public','PortfolioSite.html')
 end
