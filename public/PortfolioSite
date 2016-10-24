@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My website</title>
+    <h1>Nicholas Cole</h1>
+  </head>
+  <body>
+    <h3>About me!</h3>
+    <div class="About me">
+      <p>
+        Hi, my name is Nicholas Cole!  I'm from Greenwich, CT, 26 years old and currently a student at Wyncode Academy in Miami, Florida!
+      </p>
+      <h2>Education</h2>
+      <ul>
+        <li>Middlebury College Language School: Spanish (2014)</li>
+        <li>University of Arizona: BA Spanish/Portuguese; minor in Economics (2011-2013)</li>
+      </ul>
+      <h2>Work Experience</h2>
+      <ul>
+        <li>Shemins Nursuery (summer 2016)
+        <p id="description">
+          Yard matinence, checkout, translator
+        </p>
+      </li>
+        <li>J.Crew Greenwich (2015-16 Holiday Season)
+          <p id="description">
+            Stock assistant, customer assistance associate, translator
+          </p>
+        </li>
+        <li>Instituo de Estudios Universitarios/Galileo Global Education (November 2014- October 2015)
+        <p id="description">
+          English teacher to University's senior management, early-stage M&A analyst for parent company with a focus on LatAm markets
+        </p>
+      </li>
+      </ul>
+      <h3>Other things about me!</h3>
+      <ul>
+        <h5>Hobbies and Interests</h5>
+          <li>Exercise: I am a fitness addict, and love to play all kinds of sports.  I also have a passion for eating healthy, and enjoy cooking.</li>
+          <li>Music: I've been making music with both physical instruments and with the computer for a majority of my life! I'm currently composing my own album.  I'm competent in every major DAW in use today.</li>
+          <li>Film: I worked on my major department's annual student film festival for all 3 years as an undergrad - I both made my own short films and helped others make their own films, too.  I'm handy with FinalCut Pro and iMovie</li>
+      </ul>
+
+    </div>
+
+    <div class="contact me">
+      <p>
+        <h1>Here's how to get in touch with me!</h1>
+        <ul>
+
+          <li>email: npc22590@gmail.com</li>
+          <li>skype: Nicholas.Page.Cole</li>
+          <li>203-520-5529</li>
+        </ul>
+
+      </p>
+      <ul>
+        <li>twitter (FIND IMAGE HYPERLINK) https://twitter.com/NCOLE225</li>
+        <li>LinkedIn (FIND IMAGE HYPERLINK) https://www.linkedin.com/in/nicholas-cole-2131a579?trk=nav_responsive_tab_profile_pic</li>
+        <li>github (FIND IMAGE HYPERLINK) https://github.com/NickC25</li>
+      </ul>
+    </div>
+<div class ="background_image"></div>
+
+
+  </body>
+</html>
